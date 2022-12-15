@@ -1,0 +1,7 @@
+8c6eca
+
+kurb bold
+kurb regular
+kurb semi bold
+oswald bold
+oswald medium
